@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AutxstixDev
 - 👀 I’m interested in gym, games, programming and cats
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React JS and Java
 - 📫 How to reach me- Instagram: Smriddhyaseng | Twitter:AutxsticDev | LinkedIn: Samriddhya Sengupta
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love tacos
